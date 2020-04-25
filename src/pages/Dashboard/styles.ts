@@ -52,7 +52,7 @@ export const TableContainer = styled.section`
 
   table {
     width: 100%;
-    border-spacing: 0 8px;
+    border-spacing: 0 10px;
 
     th {
       color: #969cb3;
